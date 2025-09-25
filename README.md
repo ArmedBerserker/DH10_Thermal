@@ -14,6 +14,6 @@ Please commit files with proper filenames, and commit messages. Do not commit ch
 3. Get the url of the repository by going through *Code > HTTPS* and copying the link
 4. In your Powershell window, type *git clone \<the url\>*
 *To push a repository through the terminal*
-5. Save all files and then run *git add .* (the dot after add can be replaced dependent on the situation, check documentation)
-6. Run *git commit -m "include a relevant message here" *
+5. Save all files and then run *git add .* (the dot after addcan be replaced dependent on the situation, check documentation)
+6. Run *git commit -m \"include a relevant message here\"*
 7. Run *git push origin \<whatever branch you want\>*
