@@ -17,6 +17,3 @@ Please commit files with proper filenames, and commit messages. Do not commit ch
 5. Save all files and then run *git add .* (the dot after add can be replaced dependent on the situation, check documentation)
 6. Run *git commit -m "include a relevant message here"
 7. Run *git push origin \<whatever branch you want\>*
-
-blahblah
-
