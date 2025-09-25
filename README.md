@@ -11,4 +11,4 @@ Please commit files with proper filenames, and commit messages. Do not commit ch
 1. Ensure you have Git installed by running: git --version
 2. Make a file directory where you want your cloned repository to sit. Navigate to it through Powershell. (*cd* opens a folder, *ls* lists all of its contents, *cd ..* will exit the current folder)
 3. Get the url of the repo by going through *Code > HTTPS* and copying the link
-4. In your Powershell window, type *git clone <the url>*
+4. In your Powershell window, type *git clone \<the url\>*
